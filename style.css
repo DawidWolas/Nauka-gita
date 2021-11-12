@@ -17,12 +17,15 @@ body{
 .page-title{
     font-weight: 700;
     font-size: 40px;
+    color: royalblue;
     
 }
 .page-subtitle{
     font-style: italic;
+    color: blue;
 
 }
 .splash p{
     padding: 0;
+    color: red;
 }
