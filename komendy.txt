@@ -1,0 +1,7 @@
+HTML  validate
+ npm install  html-validate -instalacja
+html-validate FILENAME -użycie
+
+autoprefixer
+npm install postcss-cli autoprefixer-instalacja
+npx postcss *.css --use autoprefixer -d build/- użycie
